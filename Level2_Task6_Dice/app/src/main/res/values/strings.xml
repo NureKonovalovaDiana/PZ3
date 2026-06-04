@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Level2_Task6_Dice</string>
+
+    <string name="button_roll">Кинути кубики</string>
+    <string name="player1">Гравець 1:</string>
+    <string name="player2">Гравець 2:</string>
+    <string name="game_result">Результат гри:</string>
+    <string name="player1_result">Гравець 1: %1$d</string>
+    <string name="player2_result">Гравець 2: %1$d</string>
+
+    <string name="winner1">Переміг гравець 1</string>
+    <string name="winner2">Переміг гравець 2</string>
+    <string name="draw">Нічия</string>
+</resources>
