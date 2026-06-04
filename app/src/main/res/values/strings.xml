@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Level1_Task6_Division_V2</string>
+    <string name="input_title">Введіть число A</string>
+    <string name="input_hint">Введіть число A</string>
+    <string name="input_title_2">Введіть число Б</string>
+    <string name="input_hint_2">Введіть число Б</string>
+    <string name="btn_title">Обчислити частку</string>
+    <string name="res_title">Результат: -</string>
+</resources>
